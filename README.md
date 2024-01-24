@@ -1,10 +1,10 @@
 # eightfold-path
-This repository will be serving the purpose of documenting my progress path towards syslib enlightenment during the Spring 2024 semester, hence my name for this repository.
+This repository will be serving the purpose of documenting my path towards syslib enlightenment during the Spring 2024 semester, hence my name for this repository.
 
 ## About Me
 I am a lifelong Louisvillian currently enrolled in UK's Library Science Master's program, and am on track to graduate in **Fall 2024**.
 
-Besides being a grad student, I also work full time at a branch in the Louisville Free Public Library as an Adult Services/Reference Library Assistant. Before enrolling at UK, I graduated from U of L with my BA in Philosophy and two minors: one in Chemistry and the other in German. I was attracted to Library Science because I felt that it was an area of study that rewards eclectic and broad academic interest while also allowing me to eschew becoming a specialist.
+Besides being a grad student, I also work full time at a branch in the Louisville Free Public Library as an Adult Services/Reference Library Assistant. Before enrolling at UK, I graduated from U of L with my BA in Philosophy and two minors: one in Chemistry and the other in German. I am attracted to Library Science because I feel that it is an area of study that rewards eclectic and broad academic interest while also allowing me to eschew becoming a specialist.
 
 In case you were curious, here is what I look like:
 
