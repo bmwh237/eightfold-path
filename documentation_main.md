@@ -22,6 +22,6 @@ This is is what was required:
 The focus of this week was on using text editors.
 I was required to:
 - [ ] download the `nano` text editor
-- [ ] create a md file in `GitHub` repository
-      using `nano` or some other text editor
-- [ ] post a url on Canvas
+- [ ] create an md file  using `nano` or some other 
+      text editor and upload it in my `GitHub` repository
+- [ ] post a url linking my file on Canvas
