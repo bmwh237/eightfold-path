@@ -9,8 +9,8 @@ the commands from md. For example,
 - That's what I'm trying to find out now
 - Hopefully this doesn't look stupid
 
-[ ] I will leave this box unchecked,
-[x] but not this one!
+- [ ] I will leave this box unchecked,
+- [x] but not this one!
 
 ## This will be my closing section
 
