@@ -32,7 +32,7 @@ document would be saved as.
 
 Here's what I mean: in the .nanorc file, `##` doesn't mean "create a heading"
 like it does in Markdown, but rather it tells the computer not to read 
-that line as a command/ I guess I'm just curious what the different languages
+that line as a command. I guess I'm just curious what the different languages
 are that in this context.
 
 ## My Experience with `nano`
