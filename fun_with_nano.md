@@ -24,6 +24,17 @@ When I tried this out on my VM with `cat NewFile.md` or
 Would love to hear feedback on this to know if I'm on the right path,
 or way off base.
 
+EDIT: I copied the raw text from my VM instance into `GitHub` and saved
+the contents as an .md file and sure enough it translated it correctly!
+It seems like text editors are valuable for keeping track of the reason
+behind different lines of code, so now I'm curious what file type a code
+document would be saved as.
+
+Here's what I mean: in the .nanorc file, `##` doesn't mean "create a heading"
+like it does in Markdown, but rather it tells the computer not to read 
+that line as a command/ I guess I'm just curious what the different languages
+are that in this context.
+
 ## My Experience with `nano`
 I found `nano` to be relatively straightforward. I also downloaded
 `micro` because I liked how it looked when you demoed it.
