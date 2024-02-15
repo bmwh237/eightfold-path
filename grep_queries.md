@@ -54,4 +54,58 @@ sed 's/{//' | sed 's/},//' | \
 grep -Ew "[0-9]{4}"
 tee -a articles.scopus.txt
 ```
-I found this exercise helpful, and writing up my process helped me to really comprehend all of my thinking and the steps required.
+And when I display the contents of the file, here's what it looks like:
+```
+ Vella, Daniel and Gualeni, Stefano
+ Virtual subjectivity: Existence and projectuality in virtual worlds
+ 2019
+--
+ Landau, E.
+ Existential games in human growth
+ 1985
+--
+ Ryall, Emily
+ Being-on-the-bench: An existential analysis of the substitute in sport
+ 2008
+--
+ Chittaro, Luca and Sioni, Riccardo
+ Existential video games: Proposal and evaluation of an interactive reflection about death
+ 2018
+--
+ Jones, Ellen D. and Herrick, Charlotte and York, Regina F.
+ An intergenerational group benefits both emotionally disturbed youth and older adults
+ 2004
+--
+ Kambouris, Manousos E. and Manoussopoulos, Yiannis and Kantzanou, Maria and Velegraki, Aristea and Gaitanis, Georgios and Arabatzis, Michalis and Patrinos, George P.
+ Rebooting Bioresilience: A Multi-OMICS Approach to Tackle Global Catastrophic Biological Risks and Next-Generation Biothreats
+ 2018
+--
+ Crown, S.
+ Communication and abnormal behaviour.
+ 1979
+--
+ Vella, Daniel
+ Beyond agency: games as the aesthetics of being
+ 2021
+--
+ Cartlidge, James
+ Interpreting Dwarf Fortress: Finitude, Absurdity, and Narrative
+ 2024
+--
+ Yorke, Christopher C.
+ ‘The Alexandrian Condition’: Suits on Boredom, Death, and Utopian Games
+ 2019
+--
+ Ronkainen, Noora J. and Ryba, Tatiana V.
+ Is hockey just a game? Contesting meanings of the ice hockey life projects through a career-threatening injury
+ 2017
+--
+ Lundvall, Maria and Lindberg, Elisabeth and Hörberg, Ulrica and Carlsson, Gunilla and Palmér, Lina
+ Lost in an unknown terrain: a phenomenological contribution to the understanding of existential concerns as experienced by young women in Sweden
+ 2019
+--
+ Leino, Olli Tapio
+ Playability and its Absence - A post-ludological critique
+ 2013
+```
+I found this process to be really helpful in clarifying my thinking and solidifying my understandin of many of the commands we've learned so far.
