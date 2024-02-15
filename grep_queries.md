@@ -27,7 +27,7 @@ indicated the end of what was edited. In this context, I simply removed the brac
 
 ## Line 4: `grep -Ew "[0-9]{4}"`
 Lastly, I was curious if I could perform a `grep` search on the output of my command (since it represented a much more condensed
-version of the full scopus.bib file. Initially, I typed `grep -Ew "[0-9]{4}" scopus.bib` to search the "filtered" output, but this
+version of the full scopus.bib file). Initially, I typed `grep -Ew "[0-9]{4}" scopus.bib` to search the "filtered" output, but this
 returned the full text of the file. My instinct was then to try and do the same search but remove the file name from the end, figuring
 it would then search the piped in information from the previous lines of the command. Sure enough, my hunch was right.
 
