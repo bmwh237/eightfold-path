@@ -23,7 +23,9 @@ I initially had some difficulty understanding the syntax of the `sed` command, b
 to incorporate it in my command to solidify the knowledge. The output of my command thus far was much more readable than
 it was to begin with, but the text lines stil contained unecessary {brackets} and commas. I used the `sed` command to edit
 the text and remove the extraneous markings, figuring out that the / stood for the start of what was being edited and // 
-indicated the end of what was edited. In this context, I simply removed the brackets and commas without replacing them.
+indicated the end of what was edited in this context (normally there would be something between the middle and last /, but
+since no changes were being made, it functioned as the end.. In this context, I simply removed the brackets and commas 
+without replacing them.
 
 ## Line 4: `grep -Ew "[0-9]{4}"`
 Lastly, I was curious if I could perform a `grep` search on the output of my command (since it represented a much more condensed
