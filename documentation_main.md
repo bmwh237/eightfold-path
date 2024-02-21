@@ -34,12 +34,26 @@ learn-the-filesystem programs to continue to improve
 our familiarity with basic Linux CLI commands.
 
 Requirements for this week:
-- [ ] use grep to search the operating-systems.csv and  
+- [x] use grep to search the operating-systems.csv and  
       copy the code block from the module page into `nano`  
       and save the file as **operating-systems.csv**  
-- [ ] Download data from *Scopus* bib database and then use  
+- [x] Download data from *Scopus* bib database and then use  
       the grep command to search that database  
-- [ ] Create a new file in `GitHub` repository that displays  
+- [x] Create a new file in `GitHub` repository that displays  
       example grep queries and provides notes on interpretations  
       of the data contained in the *Scopus* databases  
-- [ ] Post a link to the file on Canvas  
+- [x] Post a link to the file on Canvas
+
+## Week of 2/19/24: Module 3.4 - Managing Software; 3.5 - Library Search
+As a course of ingraining common commands into my frontal cortex,   
+I'll once again be running the learn-the-cli and learn-the-filesystem programs.  
+The new content covered this week relates to adding and subtracting   
+software using the command line.
+
+- [x] mess around with the sudo command by installing  
+      some programs and examining the root (/) file systems.
+- [ ] mess around with the yaz-client to do some searching  
+      for resources on the UK Library website
+- [ ] Document the result of my messing around in a new file  
+      and upload it `GitHub`
+- [ ] Post a link to the new `GitHub` file on Canvas
