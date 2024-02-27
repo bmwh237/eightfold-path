@@ -64,7 +64,7 @@ on my VM - Apache2, PHP, and MySQL. Now that we've hit the halfway point of the 
 it makes sense that we'll be moving onto more complicated operations. Here's the 
 to-do list for this week:
 - [ ] Install and set up Apache2, PHP, MySQL on my VM
-- [ ] Successfully display the opac.php file in the browser
+- [ ] Successfully display the opac.php file in the browser  
       and submit a screenshot on Canvas
-- [ ] Submit link to notes and reflection to GitHub repo
+- [ ] Submit link to notes and reflection to GitHub repo  
       on Canvas.
