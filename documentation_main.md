@@ -52,8 +52,19 @@ software using the command line.
 
 - [x] mess around with the sudo command by installing  
       some programs and examining the root (/) file systems.
-- [ ] mess around with the yaz-client to do some searching  
+- [x] mess around with the yaz-client to do some searching  
       for resources on the UK Library website
-- [ ] Document the result of my messing around in a new file  
+- [x] Document the result of my messing around in a new file  
       and upload it `GitHub`
-- [ ] Post a link to the new `GitHub` file on Canvas
+- [x] Post a link to the new `GitHub` file on Canvas
+
+## Week of 2/26/24: 4.1->4.3 - Install and Setup a LAMP Stack
+A lot to get through this week. I'll have to install and setup three different things
+on my VM - Apache2, PHP, and MySQL. Now that we've hit the halfway point of the class
+it makes sense that we'll be moving onto more complicated operations. Here's the 
+to-do list for this week:
+- [ ] Install and set up Apache2, PHP, MySQL on my VM
+- [ ] Successfully display the opac.php file in the browser
+      and submit a screenshot on Canvas
+- [ ] Submit link to notes and reflection to GitHub repo
+      on Canvas.
