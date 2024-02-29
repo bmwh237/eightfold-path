@@ -65,7 +65,7 @@ it makes sense that we'll be moving onto more complicated operations. Here's the
 to-do list for this week:
 - [x] Install and set up Apache2 and create a web page (HTML  
       file)
-- [ ] Install and configure PHP and create index.php file,
+- [x] Install and configure PHP and create index.php file,
 - [ ] Install MySQL, create a user profile, and a practice
       database
 - [ ] Successfully display the opac.php file in the browser  
