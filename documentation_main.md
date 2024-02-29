@@ -63,7 +63,11 @@ A lot to get through this week. I'll have to install and setup three different t
 on my VM - Apache2, PHP, and MySQL. Now that we've hit the halfway point of the class
 it makes sense that we'll be moving onto more complicated operations. Here's the 
 to-do list for this week:
-- [ ] Install and set up Apache2, PHP, MySQL on my VM
+- [x] Install and set up Apache2 and create a web page (HTML  
+      file)
+- [ ] Install and configure PHP and create index.php file,
+- [ ] Install MySQL, create a user profile, and a practice
+      database
 - [ ] Successfully display the opac.php file in the browser  
       and submit a screenshot on Canvas
 - [ ] Submit link to notes and reflection to GitHub repo  
