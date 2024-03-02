@@ -66,9 +66,9 @@ to-do list for this week:
 - [x] Install and set up Apache2 and create a web page (HTML  
       file)
 - [x] Install and configure PHP and create index.php file,
-- [ ] Install MySQL, create a user profile, and a practice
+- [x] Install MySQL, create a user profile, and a practice
       database
-- [ ] Successfully display the opac.php file in the browser  
+- [x] Successfully display the opac.php file in the browser  
       and submit a screenshot on Canvas
 - [ ] Submit link to notes and reflection to GitHub repo  
       on Canvas.
