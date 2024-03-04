@@ -58,7 +58,7 @@ software using the command line.
       and upload it `GitHub`
 - [x] Post a link to the new `GitHub` file on Canvas
 
-## Week of 2/26/24: 4.1->4.3 - Install and Setup a LAMP Stack
+## Week of 2/26/24: Modules 4.1->4.3 - Install and Setup a LAMP Stack
 A lot to get through this week. I'll have to install and setup three different things
 on my VM - Apache2, PHP, and MySQL. Now that we've hit the halfway point of the class
 it makes sense that we'll be moving onto more complicated operations. Here's the 
@@ -70,5 +70,20 @@ to-do list for this week:
       database
 - [x] Successfully display the opac.php file in the browser  
       and submit a screenshot on Canvas
-- [ ] Submit link to notes and reflection to GitHub repo  
+- [x] Submit link to notes and reflection to GitHub repo  
       on Canvas.
+
+## Week of 3/4/24: Module 4.4 - Creating a Barebones OPAC
+This week is meant to build on everything we set up last week. Having already set up
+the web server, PHP, and MySQL, the goal of this week is to add to the OPAC database
+in MySQL. Here's what needs to be done:
+- [ ] Recreate the new PHP and HTML files from the Systems  
+      Librarianship notebook
+- [ ] Login to MySQL from Command Line and insert 5+ additional
+      records. Play around with the new OPAC to make sure
+      everything is up-and-running
+- [ ] Create a Markdown file in GitHub documenting my experience  
+      with setting up and working with my OPAC
+- [ ] Submit link to notes and reflection to GitHub repo
+      on Canvas.
+      
