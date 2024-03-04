@@ -80,7 +80,7 @@ in MySQL. Here's what needs to be done:
 - [ ] Recreate the new PHP and HTML files from the Systems  
       Librarianship notebook
 - [ ] Login to MySQL from Command Line and insert 5+ additional
-      records. Play around with the new OPAC to make sure
+      records. Play around with the new OPAC to make sure  
       everything is up-and-running
 - [ ] Create a Markdown file in GitHub documenting my experience  
       with setting up and working with my OPAC
