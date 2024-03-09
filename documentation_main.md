@@ -77,13 +77,13 @@ to-do list for this week:
 This week is meant to build on everything we set up last week. Having already set up
 the web server, PHP, and MySQL, the goal of this week is to add to the OPAC database
 in MySQL. Here's what needs to be done:
-- [ ] Recreate the new PHP and HTML files from the Systems  
+- [x] Recreate the new PHP and HTML files from the Systems  
       Librarianship notebook
-- [ ] Login to MySQL from Command Line and insert 5+ additional  
+- [x] Login to MySQL from Command Line and insert 5+ additional  
       records. Play around with the new OPAC to make sure  
       everything is up-and-running
-- [ ] Create a Markdown file in GitHub documenting my experience  
+- [x] Create a Markdown file in GitHub documenting my experience  
       with setting up and working with my OPAC
-- [ ] Submit link to notes and reflection to GitHub repo
+- [x] Submit link to notes and reflection to GitHub repo
       on Canvas.
       
