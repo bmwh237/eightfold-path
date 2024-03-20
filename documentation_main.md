@@ -106,6 +106,12 @@ in MySQL. Here's what needs to be done:
       on Canvas.
 </details>
 <details>
+<summary>Week of 3/11/24: SPRING BREAK!</summary>
+
+Nothing to see here.
+</details>
+
+<details>
 <summary>Week of 3/18/24</summary>
   
 ## Module 4.5 - Creating a Bare Bones Cataloging Module
