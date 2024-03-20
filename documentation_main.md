@@ -1,38 +1,47 @@
 # Documentation of the process of learning `git` 
+<details>
+<summary>Week of 1/22/24</summary>
 
-## Week of 1/22/24: Module 2.2 - Using `git` and `GitHub` for Documentation
+## Module 2.2 - Using `git` and `GitHub` for Documentation
 Initial set up of `GitHub` required 
 three steps from me:
 - [x] Create a `GitHub` repository
 - [x] Create a file for documentation
 - [x] Post a link to the repository
   on Canvas
+</details>
+<details>
+<summary>Week of 1/29/24</summary>
 
-## Week of 1/29/24: Module 3.1 - Learn the CLI
-This week was all about practicing  
-the Unix Command-line Interface (CLI)  
+## Module 3.1 :  Learn the CLI
+This week was all about practicing the Unix Command-line Interface (CLI)
 and learning the filesystem.
 This is is what was required:
 - [x] download and complete learn-the-cli program
 - [x] download and complete learn-the-filesystem program
 - [x] post screenshots to Canvas proving completion
 - [x] OPTIONAL: run the flashcards program to familiarize self with commands
+</details>
+<details>
+<summary>Week of 2/5/24</summary>
 
-## Week of 2/5/24: Module 3.2 - Using the `nano` Text Editor
+## Module 3.2: Using the `nano` Text Editor
 The focus of this week was on using text editors.
 I was required to:
 - [x] mess around with the `nano` text editor
 - [x] create an md file in my `GitHub` repository  
       describing my experience with `nano` 
 - [x] post a url linking my file on Canvas
+</details>
+<details>
+<summary>Week of 2/12/24</summary>
 
-## Week of 2/12/24: Module 3.3 - Searching with Grep
-The new content covered this week invloved using the grep command   
-to search operating-systems.csv. We also had to   
-continue playing running the learn-the-cli and  
-learn-the-filesystem programs to continue to improve  
+## Module 3.3: Searching with Grep
+The new content covered this week invloved using the grep command 
+to search operating-systems.csv. We also had to 
+continue playing running the learn-the-cli and
+learn-the-filesystem programs to continue to improve 
 our familiarity with basic Linux CLI commands.
-
 Requirements for this week:
 - [x] use grep to search the operating-systems.csv and  
       copy the code block from the module page into `nano`  
@@ -43,11 +52,14 @@ Requirements for this week:
       example grep queries and provides notes on interpretations  
       of the data contained in the *Scopus* databases  
 - [x] Post a link to the file on Canvas
-
-## Week of 2/19/24: Module 3.4 - Managing Software; 3.5 - Library Search
-As a course of ingraining common commands into my frontal cortex,   
-I'll once again be running the learn-the-cli and learn-the-filesystem programs.  
-The new content covered this week relates to adding and subtracting   
+</details>
+<details>
+<summary>Week of 2/19/24</summary>
+  
+## Module 3.4: Managing Software & 3.5: Library Search
+As a course of ingraining common commands into my frontal cortex, 
+I'll once again be running the learn-the-cli and learn-the-filesystem programs.
+The new content covered this week relates to adding and subtracting 
 software using the command line.
 
 - [x] mess around with the sudo command by installing  
@@ -57,8 +69,11 @@ software using the command line.
 - [x] Document the result of my messing around in a new file  
       and upload it `GitHub`
 - [x] Post a link to the new `GitHub` file on Canvas
-
-## Week of 2/26/24: Modules 4.1->4.3 - Install and Setup a LAMP Stack
+</details>
+<details>
+<summary>Week of 2/26/24</summary>
+  
+## Modules 4.1->4.3: Install and Setup a LAMP Stack
 A lot to get through this week. I'll have to install and setup three different things
 on my VM - Apache2, PHP, and MySQL. Now that we've hit the halfway point of the class
 it makes sense that we'll be moving onto more complicated operations. Here's the 
@@ -72,8 +87,11 @@ to-do list for this week:
       and submit a screenshot on Canvas
 - [x] Submit link to notes and reflection to GitHub repo  
       on Canvas.
-
-## Week of 3/4/24: Module 4.4 - Creating a Barebones OPAC
+</details>
+<details>
+<summary>Week of 3/4/24</summary>
+  
+## Module 4.4: Creating a Barebones OPAC
 This week is meant to build on everything we set up last week. Having already set up
 the web server, PHP, and MySQL, the goal of this week is to add to the OPAC database
 in MySQL. Here's what needs to be done:
@@ -86,4 +104,24 @@ in MySQL. Here's what needs to be done:
       with setting up and working with my OPAC
 - [x] Submit link to notes and reflection to GitHub repo
       on Canvas.
-      
+</details>
+<details>
+<summary>Week of 3/18/24</summary>
+  
+## Module 4.5 - Creating a Bare Bones Cataloging Module
+Upon returning to the Linux Command Line froom Spring Break, we will be following up on
+the creation of the barebones this week by creating a barebones catalogging module.
+When the two items are combined, we will have created a barebones ILS!
+
+Here's my tasks for this week:
+- [ ] Create an index.html file in a new catalogging  
+      directory in /var/www/html
+- [ ] Create an insert.php file in the new catalogging  
+      directory
+- [ ] Secure the catalogging directory with the  
+      `htpasswd`command
+- [ ] Add some additional records using the new web  
+      form
+- [ ] Use your OPAC to retrieve the new records
+- [ ] Post relevant screenshots to Canvas
+</details>
