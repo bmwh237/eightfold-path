@@ -129,6 +129,6 @@ Here's my tasks for this week:
 - [x] Add some additional records using the new web  
       form
 - [x] Use your OPAC to retrieve the new records
-- [ ] Post relevant screenshots to Canvas and post a
+- [ ] Post relevant screenshots to Canvas and post a    
       link to notation on Canvas
 </details>
