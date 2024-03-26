@@ -120,14 +120,15 @@ the creation of the barebones this week by creating a barebones catalogging modu
 When the two items are combined, we will have created a barebones ILS!
 
 Here's my tasks for this week:
-- [ ] Create an index.html file in a new catalogging  
+- [x] Create an index.html file in a new catalogging  
       directory in /var/www/html
-- [ ] Create an insert.php file in the new catalogging  
+- [x] Create an insert.php file in the new catalogging  
       directory
-- [ ] Secure the catalogging directory with the  
+- [x] Secure the catalogging directory with the  
       `htpasswd`command
-- [ ] Add some additional records using the new web  
+- [x] Add some additional records using the new web  
       form
-- [ ] Use your OPAC to retrieve the new records
-- [ ] Post relevant screenshots to Canvas
+- [x] Use your OPAC to retrieve the new records
+- [ ] Post relevant screenshots to Canvas and post a
+      link to notation on Canvas
 </details>
