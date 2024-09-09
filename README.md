@@ -21,7 +21,7 @@ The poor lighting is due to my having no overhead lights in my apartment, which 
 - Food: Caribbean cuisine is probably my favorite, though nearly any type of curry is going to be in contention for my favorite dish.
 - Hobbies: Playing guitar and writing tunes, reading, running, tree identification, video games
 - Quote:
-> "*I don’t think being good at things is the point of doing them. I think you’ve got all these wonderful experiences with different skills, and that all teaches you things and makes you an interesting person, no matter how well you do them.*" - Kurt Vonnegut
+> "*Practice any art . . . no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside you, to make your soul grow.*" - Kurt Vonnegut
 
 ## Outro
 That should do it for an introduction! If you read through everything, then hopefully I was able to effectively convey a little bit more about myself and be interesting in the process. I really just wanted to use this as a way to experiment with some Markdown's basic syntax, and I think it was a worthwhile exercise in that regard.
